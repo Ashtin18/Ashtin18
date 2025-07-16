@@ -1,4 +1,4 @@
-<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/767581a8-ef11-4c48-ad80-a4127d8d46b1" />## Hello, I'm Ashtin 👋🏻🖥️
+## Hello, I'm Ashtin 👋🏻🖥️
 
 I'm a **Frontend Developer** passionate about building dynamic, data-driven web applications.
 
