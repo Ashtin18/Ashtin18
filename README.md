@@ -1,4 +1,4 @@
-## Hello, I'm Ashtin 👋🏻🖥️
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/767581a8-ef11-4c48-ad80-a4127d8d46b1" />## Hello, I'm Ashtin 👋🏻🖥️
 
 I'm a **Frontend Developer** passionate about building dynamic, data-driven web applications.
 
@@ -19,7 +19,8 @@ I'm a **Frontend Developer** passionate about building dynamic, data-driven web 
 
 ### GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ashtin18)
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/51b7c531-2241-4216-8ee8-6cad11eb906d" />
+
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtin18&layout=compact&theme=dracula)](https://github.com/yourusername)
