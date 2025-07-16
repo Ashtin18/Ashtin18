@@ -1,4 +1,4 @@
-## Hey, I'm [Your Name]!
+## Hello, I'm Ashtin 👋🏻🖥️
 
 I'm a **Frontend Developer** passionate about building dynamic, data-driven web applications.
 
