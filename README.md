@@ -19,7 +19,7 @@ I'm a **Frontend Developer** passionate about building dynamic, data-driven web 
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashtin18)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashtin18)
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtin18&layout=compact&theme=dracula)](https://github.com/yourusername)
